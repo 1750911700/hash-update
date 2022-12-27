@@ -1,0 +1,28 @@
+{
+  "name": "hash-update",
+  "version": "0.1.0",
+  "description": "A small tool to change the version number",
+  "main": "index.js",
+  "scripts": {
+    "scripting": "node scripts.js"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1750911700/hash-update.git"
+  },
+  "keywords": [
+    "version",
+    "number",
+    "html",
+    "links"
+  ],
+  "author": "小白",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1750911700/hash-update/issues"
+  },
+  "homepage": "https://github.com/1750911700/hash-update#readme"
+}
